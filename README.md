@@ -1,11 +1,7 @@
-###Deployed Link
 
-Live URL : roxiler-systems-backend.vercel.app
+# Get Deployed Link
 
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ [Live Link](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
